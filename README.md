@@ -1,8 +1,9 @@
 # password_generator
+
 Random password generator with prompts for input.
 <br>
 <br>
-link to the deployed app: TBD
+link to the deployed app: https://jitasek.github.io/password_generator/
 <br>
 <br>
 
@@ -12,6 +13,7 @@ My motivation for this work is to improve my DOM manipulation skills and practic
 <br>
 <br>
 <strong>Acceptance criteria:</strong>
+
 - WHEN I click the button to generate a password I am presented with a series of prompts for password criteria
 - WHEN prompted for password criteria I select which criteria to include in it
 - WHEN prompted for the password length, I choose a length of between 8 - 128 characters
